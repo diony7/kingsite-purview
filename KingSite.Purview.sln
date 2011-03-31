@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingSite.Purview", "KingSite.Purview\KingSite.Purview.csproj", "{978AC4C2-EB0F-4266-A160-2C2EA43E4919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingSite.Purview.Test", "KingSite.Purview.Test\KingSite.Purview.Test.csproj", "{21B36985-0734-448D-90BE-A3A57A041164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingSite.Purview.MVC", "KingSite.Purview.MVC\KingSite.Purview.MVC.csproj", "{ECFEC3B6-87A2-446E-B31E-B3F7C9D30703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978AC4C2-EB0F-4266-A160-2C2EA43E4919}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{978AC4C2-EB0F-4266-A160-2C2EA43E4919}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{978AC4C2-EB0F-4266-A160-2C2EA43E4919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978AC4C2-EB0F-4266-A160-2C2EA43E4919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B36985-0734-448D-90BE-A3A57A041164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B36985-0734-448D-90BE-A3A57A041164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B36985-0734-448D-90BE-A3A57A041164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B36985-0734-448D-90BE-A3A57A041164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFEC3B6-87A2-446E-B31E-B3F7C9D30703}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFEC3B6-87A2-446E-B31E-B3F7C9D30703}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{ECFEC3B6-87A2-446E-B31E-B3F7C9D30703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFEC3B6-87A2-446E-B31E-B3F7C9D30703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
